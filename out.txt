@@ -1,0 +1,14 @@
+ I got here!
+ Precaluation started.....
+
+ Precaluation complete.....
+ Main String length : 99999 
+ String matched at secondary level! 
+RNTGPEYGWROQIFRUFFWPJSIWECLCCQMTDHCSLCYKTPADWSXBZTSKLAGRDRTHHHBMOFGCHHMCWOFSGETHYLSLOADTUYADGDQWIWYR
+
+ String matched at primary level! 
+IUMGKPIMZLLMCRAMNNDBFZXLSSITIIFSDTAPIIDJUPVWGWJWLOZRNXCHPMAZVIUABURMDUVZLTVSPGQCWRTMOYTFKUHHCBJFXARC
+ At primary level --> 1
+ At secondary level --> 1
+
+ Total Number of strings matched : --> 2
